@@ -1,0 +1,29 @@
+body{
+    background-color: #141B3D;
+}
+
+.site-header-parent{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    margin: 15px;
+}
+
+.header-div-parent{
+    display: flex;
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.header-info{
+    text-decoration: none;
+}
+
+.header-div{
+    font-size: 28px;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #fff;
+    margin-left: 50px;
+}
